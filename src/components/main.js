@@ -9,7 +9,7 @@ export default function Main() {
   return (
     <div className={s.main}>
       <Helmet>
-        <meta name="yandex-verification" content="274802a862bee6a8" />
+        <title>Home | STEM Model United Nations</title>
       </Helmet>
       <h1>STEM Model United Nations</h1>
       <h2>Coming Soon.</h2>
